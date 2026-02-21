@@ -1,0 +1,2 @@
+# PREDICTIVE-MODEL-FOR-STUDENT-CAREER-SUCCESS-USING-MACHINE-LEARNING-AND-BLOCK-CHAIN-TECHNOLOGY
+Predictive Model for Student Career Success using Machine Learning and Blockchain Technology analyzes academic performance, skills, and behavioral data to forecast career outcomes. Machine learning ensures accurate predictions, while blockchain secures academic records with transparency, integrity, and tamper-proof verification for career guidance.
